@@ -8,12 +8,24 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I build web applications using **React** and **Node.js**
-- 🤖 I develop **Discord bots** using **JavaScript** and **TypeScript**
-- ⛏️ I create **Minecraft plugins** for **Paper** and **Spigot** servers
-- 🌱 I'm constantly improving my skills in the **JavaScript / TypeScript** ecosystem
-- 💾 I work with **MySQL** and **Redis** databases
-- ☕ Experienced in **Java** and **Kotlin** for backend and plugin development
+<table>
+  <tr>
+    <td>🌐 <b>Web Development</b></td>
+    <td>Building fullstack apps with <b>React</b>, <b>Node.js</b>, <b>TypeScript</b></td>
+  </tr>
+  <tr>
+    <td>🤖 <b>Discord Bots</b></td>
+    <td>Creating advanced bots using <b>JavaScript</b> & <b>TypeScript</b></td>
+  </tr>
+  <tr>
+    <td>⛏️ <b>Minecraft Plugins</b></td>
+    <td>Developing plugins for <b>Paper</b> & <b>Spigot</b> in <b>Java</b> / <b>Kotlin</b></td>
+  </tr>
+  <tr>
+    <td>💾 <b>Databases</b></td>
+    <td>Working with <b>MySQL</b> and <b>Redis</b></td>
+  </tr>
+</table>
 
 ---
 
